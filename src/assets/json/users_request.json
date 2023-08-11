@@ -1,0 +1,65 @@
+[
+  {
+    "id": 0,
+    "name": "Ana Melo",
+    "message": "Começou a seguir você",
+    "username": "anamelo",
+    "avatar_uri": "https://randomuser.me/api/portraits/women/32.jpg",
+    "followers": "16",
+    "verified": false
+  },
+  {
+    "id": 1,
+    "name": "Alexendre Ricardo",
+    "message": "Começou a seguir você",
+    "username": "alexandre",
+    "avatar_uri": "https://randomuser.me/api/portraits/men/28.jpg",
+    "followers": "300",
+    "verified": false
+  },
+  {
+    "id": 2,
+    "name": "Robson Thiago",
+    "message": "Começou a seguir você",
+    "username": "robsonthiago",
+    "avatar_uri": "https://randomuser.me/api/portraits/men/32.jpg",
+    "followers": "436",
+    "verified": false
+  },
+  {
+    "id": 3,
+    "name": "Roberto Maia",
+    "message": "Começou a seguir você",
+    "username": "robertomaia",
+    "avatar_uri": "https://randomuser.me/api/portraits/men/66.jpg",
+    "followers": "544",
+    "verified": true
+  },
+  {
+    "id": 4,
+    "name": "Katarina Almeida",
+    "message": "Começou a seguir você",
+    "username": "katarina_almeida",
+    "avatar_uri": "https://randomuser.me/api/portraits/women/64.jpg",
+    "followers": "242",
+    "verified": true
+  },
+  {
+    "id": 5,
+    "name": "Livia Andrade",
+    "message": "Começou a seguir você",
+    "username": "liviaaaandrade",
+    "avatar_uri": "https://randomuser.me/api/portraits/women/82.jpg",
+    "followers": "786",
+    "verified": true
+  },
+  {
+    "id": 6,
+    "name": "Sundar Musk",
+    "message": "Começou a seguir você",
+    "username": "sundar",
+    "avatar_uri": "https://randomuser.me/api/portraits/men/39.jpg",
+    "followers": "440",
+    "verified": false
+  }
+]
